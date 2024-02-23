@@ -21,8 +21,7 @@ ________________________________________________________________________________
                   |     
                   |
                   |_________Non = Rien    
-___________________________________________________________________________________________________________________________________________________________________________
-
+__________________________________________________________________________________________________________________________________________________________________________
 Cet arbre pourrait être traduit en pseudo-code de la manière suivante:
 • si douleur à abdomen, alors appendicite
 • sinon, si douleur à la gorge et:
@@ -32,4 +31,3 @@ o si fièvre, alors rhume o sinon, mal de gorge
  consigne:
 
 Implémenter et tester les lignes de code JavaScript permettant d’interagir avec le chat-bot, tel que défini par l’arbre ci-dessus.
-                     
